@@ -1,4 +1,5 @@
 # IDfy Hackathon - Privacy Sherlock
+![image](https://github.com/user-attachments/assets/2c011af5-2d38-47a2-9774-b15ca74ca9bf)
 
 ## PII Detection and Analysis
 
