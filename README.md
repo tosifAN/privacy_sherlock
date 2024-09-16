@@ -29,7 +29,7 @@ This project is a **Streamlit web app** that allows users to connect with variou
 
         ```bash
         git clone https://github.com/tosifAN/privacy_sherlock.git
-        cd privacy-sherlock
+        cd privacy_sherlock
         ```
 
 #### 2. Create a Virtual Environment and Activate It
