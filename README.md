@@ -28,7 +28,7 @@ This project is a **Streamlit web app** that allows users to connect with variou
 #### 1. Clone the Repository
 
         ```bash
-        git clone https://github.com/tosifAns/privacy-sherlock.git
+        git clone https://github.com/tosifAN/privacy_sherlock.git
         cd privacy-sherlock
         ```
 
